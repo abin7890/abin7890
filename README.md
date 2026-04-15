@@ -1,64 +1,68 @@
-#  Abin VA | DevOps Engineer
-
-💡 Passionate DevOps Engineer with hands-on experience in **cloud infrastructure, CI/CD pipelines, and containerization**.  
-🎯 Focused on building scalable, automated, and reliable systems using modern DevOps tools.
+*<h1 align="center">Hi 👋, I'm Abin</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 BCA Graduate from Calicut University  
-- ☁️ Certified in DevOps & Cloud (AWS)  
-- 🔧 Skilled in automation, monitoring, and deployment pipelines  
-- 🌱 Currently improving skills in **Kubernetes, Terraform, and Cloud Architecture**  
-- 📍 Based in Kerala, India  
+- 🎓 BCA Graduate  
+- ☁️ Passionate about **Cloud & DevOps**
+- 🔧 Skilled in building **CI/CD pipelines & automation**
+- 🌱 Currently learning **advanced Kubernetes & cloud architecture**
+- 💡 Love solving real-world problems with scalable solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 DevOps Tools
-- Docker  
-- Kubernetes  
-- Jenkins  
-- Git & GitHub  
-- Terraform  
-- Helm  
+- Docker | Kubernetes | Jenkins | Terraform | Helm
 
-### ☁️ Cloud & Monitoring
-- AWS (EC2, S3, IAM, VPC)  
-- Prometheus  
-- Grafana  
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, RDS)
 
-### 🔍 Code Quality & Security
-- SonarQube  
-- Trivy  
+### 🔄 CI/CD & Monitoring
+- GitHub Actions | Jenkins  
+- Prometheus | Grafana  
 
 ### 💻 Other Tools
-- Linux  
-- Maven  
+- Git | Linux | Maven  
 
 ---
 
 ## 📂 Projects
-
-### 🔹 CI/CD Pipeline Project
-- Built a complete CI/CD pipeline using **Jenkins, Docker, Kubernetes**
-- Integrated **SonarQube** for code quality analysis  
-- Used **Trivy** for container security scanning  
-- Automated deployment to Kubernetes cluster  
-
-👉 **Key Outcome:** Reduced manual deployment effort and improved reliability  
+- 🔹 CI/CD Pipeline with Jenkins, Docker & Kubernetes  
+- 🔹 Full Stack App Deployment on AWS  
+- 🔹 Infrastructure as Code using Terraform  
 
 ---
 
-### 🔹 Full Stack Blogging App Deployment
-- Containerized application using Docker  
-- Deployed on Kubernetes cluster  
-- Implemented monitoring with Prometheus & Grafana  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
 
-👉 **Key Outcome:** Scalable and monitored application infrastructure  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+</p>
 
 ---
 
+## 🏆 Achievements
+- ✅ Built end-to-end CI/CD pipelines  
+- ✅ Hands-on with containerized applications  
+- ✅ Deployed applications on AWS  
 
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/abin-va-37b502354  
+- 📧 Email: abinvaliyaraa@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+> I automate things so I don’t have to do them twice 😎
+
+---
+
+⭐️ *Feel free to check out my repositories and give a star if you like them!***
