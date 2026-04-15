@@ -1,16 +1,64 @@
-## Hi there 👋
+# 🚀 Abin VA | DevOps Engineer
 
-<!--
-**abin7890/abin7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate DevOps Engineer with hands-on experience in **cloud infrastructure, CI/CD pipelines, and containerization**.  
+🎯 Focused on building scalable, automated, and reliable systems using modern DevOps tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 BCA Graduate from Calicut University  
+- ☁️ Certified in DevOps & Cloud (AWS)  
+- 🔧 Skilled in automation, monitoring, and deployment pipelines  
+- 🌱 Currently improving skills in **Kubernetes, Terraform, and Cloud Architecture**  
+- 📍 Based in Kerala, India  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 DevOps Tools
+- Docker  
+- Kubernetes  
+- Jenkins  
+- Git & GitHub  
+- Terraform  
+- Helm  
+
+### ☁️ Cloud & Monitoring
+- AWS (EC2, S3, IAM, VPC)  
+- Prometheus  
+- Grafana  
+
+### 🔍 Code Quality & Security
+- SonarQube  
+- Trivy  
+
+### 💻 Other Tools
+- Linux  
+- Maven  
+
+---
+
+## 📂 Projects
+
+### 🔹 CI/CD Pipeline Project
+- Built a complete CI/CD pipeline using **Jenkins, Docker, Kubernetes**
+- Integrated **SonarQube** for code quality analysis  
+- Used **Trivy** for container security scanning  
+- Automated deployment to Kubernetes cluster  
+
+👉 **Key Outcome:** Reduced manual deployment effort and improved reliability  
+
+---
+
+### 🔹 Full Stack Blogging App Deployment
+- Containerized application using Docker  
+- Deployed on Kubernetes cluster  
+- Implemented monitoring with Prometheus & Grafana  
+
+👉 **Key Outcome:** Scalable and monitored application infrastructure  
+
+---
+
+
