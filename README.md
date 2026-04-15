@@ -1,4 +1,4 @@
-# 🚀 Abin VA | DevOps Engineer
+#  Abin VA | DevOps Engineer
 
 💡 Passionate DevOps Engineer with hands-on experience in **cloud infrastructure, CI/CD pipelines, and containerization**.  
 🎯 Focused on building scalable, automated, and reliable systems using modern DevOps tools.
