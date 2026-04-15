@@ -1,5 +1,5 @@
 *<h1 align="center">Hi 👋, I'm Abin</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
+<h3 align="center"> DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
 
 ---
 
