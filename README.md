@@ -35,16 +35,6 @@
 - 🔹 Infrastructure as Code using Terraform  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
-</p>
-
 ---
 
 ## 🏆 Achievements
