@@ -37,22 +37,8 @@
 ---
 ---
 
-## 🏆 Achievements
-- ✅ Built end-to-end CI/CD pipelines  
-- ✅ Hands-on with containerized applications  
-- ✅ Deployed applications on AWS  
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/abin-va-37b502354  
 - 📧 Email: abinvaliyaraa@gmail.com  
-
----
-
-## ⚡ Fun Fact
-> I automate things so I don’t have to do them twice 😎
-
----
 
 ⭐️ *Feel free to check out my repositories and give a star if you like them!***
